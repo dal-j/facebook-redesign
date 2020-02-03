@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4C5B405-D069-4033-B1AD-5CF63039AA60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 896,
+    "width": 414,
+    "x": -117,
+    "y": -51
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8D6BB0DB-DA0B-4E48-BAD0-F845EA40C874"
+    },
+    {
+      "class": "group",
+      "id": "1BBCA484-5DFC-440F-8A20-E780006FC93F"
+    },
+    {
+      "class": "group",
+      "id": "52727923-A0E0-4458-BE94-7D44D3ED127D"
+    },
+    {
+      "class": "group",
+      "id": "247509C3-EB5E-4418-A8D4-B8F3FBE98F57"
+    },
+    {
+      "class": "group",
+      "id": "D99C08BA-B42E-4C7B-A87A-25C85F5B3D17"
+    },
+    {
+      "class": "group",
+      "id": "2F178F0B-4F4C-419A-9F4E-864686059EE9"
+    },
+    {
+      "class": "group",
+      "id": "3116C05C-0FAA-4E25-9970-EC8F69FFAD81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A868B42-C40E-4455-8E29-DE485DCDF285"
+    },
+    {
+      "class": "text",
+      "id": "CB37DBB0-6F54-4ED8-ABF6-0212BB768BC3"
+    },
+    {
+      "class": "group",
+      "id": "EE41FC68-8F28-4051-AA88-A6D26E676E08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5DBB30B2-C7FF-4CFE-BA8F-574DA2C60645"
+    }
+  ],
+  "name": "facebook group",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 896,
+    "name": "iPhone 11",
+    "offersLandscapeVariant": 1,
+    "width": 414
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "593E0A72-430D-4D44-8C4C-BF5BD67C91F4",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
